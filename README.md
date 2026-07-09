@@ -10,7 +10,7 @@
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue?style=flat-square)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Otsu's%20Thresholding-6A5ACD?style=flat-square)
 ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-unspecified-lightgrey?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 </div>
 
@@ -20,9 +20,7 @@
 
 <div align="center">
 
-https://github.com/IshaaYadav/Biomedical-Image-Processing/raw/main/Visual%20working/output.mp4
-
-*(If the video doesn't preview above, [click here to watch/download it directly](./Visual%20working/output.mp4).)*
+![Demo of Biomedical Image Processing app](./Visual%20working/output.gif)
 
 </div>
 
@@ -77,8 +75,9 @@ Biomedical-Image-Processing/
 ├── OtsuThresholding2.class  # Compiled class file
 ├── data/                    # Sample input images (grayscale biomedical images)
 ├── pixel_data.csv           # Precomputed pixel value / histogram / CDF data
+├── LICENSE                  # MIT License
 └── Visual working/
-    └── output.mp4           # Demo recording of the app in action
+    └── output.gif           # Demo recording of the app in action
 ```
 
 ---
@@ -118,7 +117,7 @@ java OtsuThresholding2
 
 ## 📜 License
 
-No license file is currently included in this repository — all rights reserved by default. Add a `LICENSE` file (e.g. MIT) if you'd like to allow reuse.
+This project is licensed under the [MIT License](./LICENSE) © 2026 Isha Yadav.
 
 <div align="center">
 
